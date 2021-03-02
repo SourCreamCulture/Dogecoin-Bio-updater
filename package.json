@@ -1,5 +1,5 @@
 {
-  "name": "bio-updater-main",
+  "name": "dogecoin-bio-updater",
   "version": "1.0.0",
   "description": "What I use to update my bio",
   "main": "index.js",
